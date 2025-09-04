@@ -1,0 +1,16 @@
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\Users\dtharp1s\Downloads\BookApps-20250819T190704Z-1-001\BookApps\ch04\InvoiceTotal (Enhanced)\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
